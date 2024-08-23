@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733579806879",
+    "project_id": "my-first-fluttrt-app",
+    "storage_bucket": "my-first-fluttrt-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733579806879:android:09923f6073a7de2b067aaa",
+        "android_client_info": {
+          "package_name": "com.mastergo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ESrLfUEeO--qBiwmhXqyUJ9vDK-5w0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
